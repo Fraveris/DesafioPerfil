@@ -1,0 +1,39 @@
+body {
+    background-color: #FAF7FD;
+    font-family: 'Poppins', sans-serif;
+    color: #6300c7;
+}
+
+#linksLista {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#redesLista {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.perfil {
+    border-radius: 50%;
+    border: solid 3px #BB99DD;
+    width: 10%;
+}
+
+.link {
+    display: flex;
+    border: solid 3px #BB99DD;
+    margin-top: 5px;
+    width: 10%;
+    border-radius: 10px;
+    justify-content: center;
+    font-weight: bolder;
+}
+
+.redeSocial {
+    padding: 0 1%;
+}
+
